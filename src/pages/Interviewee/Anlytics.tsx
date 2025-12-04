@@ -9,12 +9,12 @@
 //     hoursSpent: 15
 //   };
 
-//   const skillProgress = [
-//     { skill: "Communication", current: 4.5, previous: 4.0, change: 12.5 },
-//     { skill: "Problem Solving", current: 4.2, previous: 3.8, change: 10.5 },
-//     { skill: "Technical Knowledge", current: 4.8, previous: 4.5, change: 6.7 },
-//     { skill: "Confidence", current: 4.0, previous: 3.5, change: 14.3 },
-//   ];
+  const skillProgress = [
+    { skill: "Communication", current: 4.5, previous: 4.0, change: 12.5 },
+    { skill: "Problem Solving", current: 4.2, previous: 3.8, change: 10.5 },
+    { skill: "Technical Knowledge", current: 4.8, previous: 4.5, change: 6.7 },
+    { skill: "Confidence", current: 4.0, previous: 3.5, change: 14.3 },
+  ];
 
 //   const sessionHistory = [
 //     { month: "Aug", sessions: 2, avgRating: 4.0 },
